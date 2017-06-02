@@ -1,0 +1,24 @@
+{
+  "name": "contentstack-metalsmith",
+  "version": "0.0.1",
+  "dependencies": {
+    "contentstack": "3.1.0",
+    "lodash": "4.17.4"
+  },
+  "description": "Metalsmith plugin for fetching data from Built.io Contentsack CMS.",
+  "main": "./index.js",
+  "keywords": [
+    "metalsmith",
+    "contentstack-metalsmith",
+    "contentstack"
+  ],
+  "engineStrict" : true,
+  "engines": {
+    "node": ">=4.2.0"
+  },
+  "author": {
+    "name": "Built.io Contentstack",
+    "url": "https://www.built.io/"
+  },
+  "license": "MIT"
+}
