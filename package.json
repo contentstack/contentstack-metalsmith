@@ -5,12 +5,14 @@
     "contentstack": "3.1.0",
     "lodash": "4.17.4"
   },
-  "description": "Metalsmith plugin for fetching data from Built.io Contentsack CMS.",
-  "main": "./index.js",
+  "description": "A Metalsmith plugin that fetches content from Built.io Contentstack",
+  "main": "index.js",
   "keywords": [
     "metalsmith",
     "contentstack-metalsmith",
-    "contentstack"
+    "contentstack",
+    "builtio-contentstack",
+    "static-site-generator"
   ],
   "engineStrict" : true,
   "engines": {
