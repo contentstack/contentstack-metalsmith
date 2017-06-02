@@ -1,11 +1,11 @@
-## contentstack-metalsmith
+### About
 
 A metalsmith plugin to create a static website using [Built.io Contentstack](https://contentstack.built.io).
 
 
 ### Example
 
-In order to get started using `contentstack-metalsmith`, you can checkout our sample app at [`contentstack-metalsmith-static-site-demo`](https://github.com/builtio-contentstack/contentstack-metalsmith-demo)
+In order to get started using `contentstack-metalsmith`, you can checkout our sample app at [`contentstack-metalsmith-example`](https://github.com/builtio-contentstack/contentstack-metalsmith-example)
 
 ### Installation
 
@@ -48,7 +48,7 @@ In case you are using Metalsmith’s JS API, you will need to add `contentstack-
 ```
 
 Please refer the following to get more information on configuring your global configuration file.
-{ [Global configuration](https://github.com/builtio-contentstack/contentstack-metalsmith/blob/master/docs/global-configuration.md) }
+[Global configuration](https://github.com/builtio-contentstack/contentstack-metalsmith/blob/master/docs/global-configuration.md)
 
 ### Configuring Source Files
 
@@ -69,7 +69,7 @@ The above code snippet will use the configuration provided in your global config
 Furthermore, each entry from posts will be rendered using the `post.html` layout under the `layouts/ directory`.
 You will also be able to access the `header` and `footer` content types via the `header` and `footer` keys in `posts.html`.
 Please refer the following to get more information on configuring your source configuration file.
-{ [Source configuration](https://github.com/builtio-contentstack/contentstack-metalsmith/blob/master/docs/source-configuration.md) }
+[Source configuration](https://github.com/builtio-contentstack/contentstack-metalsmith/blob/master/docs/source-configuration.md)
 
 ### Configuring layouts files
 
