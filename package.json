@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "dependencies": {
     "contentstack": "3.1.0",
-    "lodash": "4.17.4"
+    "lodash": "^4.17.11"
   },
   "description": "A Metalsmith plugin that fetches content from Built.io Contentstack",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "builtio-contentstack",
     "static-site-generator"
   ],
-  "engineStrict" : true,
+  "engineStrict": true,
   "engines": {
     "node": ">=4.2.0"
   },
