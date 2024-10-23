@@ -2,7 +2,7 @@
   "name": "contentstack-metalsmith",
   "version": "0.0.3",
   "dependencies": {
-    "contentstack": "3.1.0",
+    "contentstack": "3.15.3",
     "lodash": "^4.17.11"
   },
   "description": "A Metalsmith plugin that fetches content from Built.io Contentstack",
